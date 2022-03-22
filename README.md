@@ -6,4 +6,8 @@ coverY: 0
 
 ## Welcome aboard!
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+
+
+{% content-ref url="the-formal-stuff/filing-expenses.md" %}
+[filing-expenses.md](the-formal-stuff/filing-expenses.md)
+{% endcontent-ref %}
