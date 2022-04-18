@@ -1,17 +1,31 @@
 # Table of contents
 
-* [Welcome!](README.md)
-
-## The Company
-
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
-
-***
-
-* [:yellow\_heart: Join ChainSafe](https://chainsafe.io)
+* [ChainSafe Engineering Handbook](README.md)
+* [docs](docs/README.md)
+  * [ChainSafe Engineering Handbook](docs/home.md)
+  * [1\_start-here](docs/1\_start-here/README.md)
+    * [Glossary](docs/1\_start-here/glossary.md)
+    * [Organisation](docs/1\_start-here/organisation.md)
+    * [departments](docs/1\_start-here/departments/README.md)
+      * [Consulting](docs/1\_start-here/departments/consulting.md)
+      * [Departments](docs/1\_start-here/departments/index.md)
+      * [Product](docs/1\_start-here/departments/product.md)
+      * [Protocol](docs/1\_start-here/departments/protocol.md)
+      * [Solutions](docs/1\_start-here/departments/solutions.md)
+  * [2\_development](docs/2\_development/README.md)
+    * [Collaboration Tools](docs/2\_development/collaboration-tools.md)
+    * [Development Flow](docs/2\_development/development-flow.md)
+    * [Incident Management](docs/2\_development/incident-management.md)
+    * [Testing](docs/2\_development/testing.md)
+    * [tech-stack](docs/2\_development/tech-stack/README.md)
+      * [Go](docs/2\_development/tech-stack/go.md)
+      * [Rust](docs/2\_development/tech-stack/rust.md)
+      * [Typescript](docs/2\_development/tech-stack/typescript.md)
+      * [Unity](docs/2\_development/tech-stack/unity.md)
+  * [3\_devops](docs/3\_devops/README.md)
+    * [Devops](docs/3\_devops/index.md)
+  * [4\_quality-assurance](docs/4\_quality-assurance/README.md)
+    * [Quality Assurance](docs/4\_quality-assurance/index.md)
+  * [5\_the-formal-stuff](docs/5\_the-formal-stuff/README.md)
+    * [Career Development](docs/5\_the-formal-stuff/career-development.md)
+    * [Switching positions](docs/5\_the-formal-stuff/switching-positions.md)
